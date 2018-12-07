@@ -1,2 +1,3 @@
 # hello-world
 in the beginning...
+what do you get if you multiply 6 x 9 ?
